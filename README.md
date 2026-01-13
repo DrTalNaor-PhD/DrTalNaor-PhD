@@ -4,11 +4,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI R&D engineer | Biomedical & Biotechnology
 --------------------------------------------
 
-As a Core Algo-Data Professional specializing in the commercial productization and operationalization of advanced AI systems, I focus on transforming complex biomedical data into high-value, deployable medical applications.
+I bridge the gap between complex biomedical research and high-value commercial AI products. I specialize in the productization and operationalization of advanced AI systems, moving models from the lab to deployable medical applications.
 
-My core technical expertise lies in AI Prompt Engineering, implementing Agent-Based AI frameworks, and utilizing deep learning techniques—including Large Language Models (LLMs) and sophisticated Encoder-Decoder CNNs—for processing both text and high-performing medical image data.
+🛠 Technical Arsenal
+AI Frameworks: Agent-Based AI, Advanced Prompt Engineering, LLMs.
 
-I possess expert mastery of the full industrial stack, including Python, SQL, TensorFlow, PyTorch, and cloud environments (GCP), enabling end-to-end ownership of sophisticated AI engineering and deployment. Crucially, my technical depth is significantly enhanced by a Ph.D. in Biomedical Engineering and practical Molecular Biology/wet lab experience, which ensures seamless and effective collaboration with Biological and clinical domain experts throughout the entire product lifecycle.
+Computer Vision: Encoder-Decoder CNNs for high-performance medical imaging.
+
+Deep Learning: TensorFlow, PyTorch.
+
+Data & Infrastructure: Python, SQL, GCP (Google Cloud Platform).
+
+Domain Expertise: Ph.D. in Biomedical Engineering + Wet Lab/Molecular Biology experience.
+
+🔬 The "Bridge" Advantage
+My unique background allows me to speak two languages fluently: Deep Tech and Clinical Science. I ensure seamless collaboration with biological experts throughout the entire product lifecycle.
 
 * 🌍  I'm based in Haifa, Israel
 * 🖥️  See my portfolio at [LinkedIN](http://linkedin.com/in/tal-naor-ph-d-b72048205)
