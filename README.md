@@ -4,9 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI R&D engineer | Biomedical & Biotechnology
 --------------------------------------------
 
-I bridge the gap between complex biomedical research and high-value commercial AI products. I specialize in the productization and operationalization of advanced AI systems, moving models from the lab to deployable medical applications.
+I bridge the gap between complex biomedical research and high-value commercial AI products. 
+I specialize in the productization and operationalization of advanced AI systems, moving models from the lab to deployable medical applications.
 
-🛠 Technical Arsenal
+## Technical Arsenal
 AI Frameworks: Agent-Based AI, Advanced Prompt Engineering, LLMs.
 
 Computer Vision: Encoder-Decoder CNNs for high-performance medical imaging.
