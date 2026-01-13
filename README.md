@@ -18,7 +18,8 @@ Data & Infrastructure: Python, SQL, GCP (Google Cloud Platform).
 
 Domain Expertise: Ph.D. in Biomedical Engineering + Wet Lab/Molecular Biology experience.
 
-🔬 The "Bridge" Advantage
+## The "Bridge" Advantage
+
 My unique background allows me to speak two languages fluently: Deep Tech and Clinical Science. I ensure seamless collaboration with biological experts throughout the entire product lifecycle.
 
 * 🌍  I'm based in Haifa, Israel
