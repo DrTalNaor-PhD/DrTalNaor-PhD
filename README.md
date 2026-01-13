@@ -24,6 +24,17 @@ Domain Expertise: Ph.D. in Biomedical Engineering + Wet Lab/Molecular Biology ex
 
 My unique background allows me to speak two languages fluently: Deep Tech and Clinical Science. I ensure seamless collaboration with biological experts throughout the entire product lifecycle.
 
+## Scientific Skills
+- Molecular Biology
+- Cell Biology
+- Microbiology
+- Computational Biology
+- Synthetic Biology
+- Molecular Biophysics
+- Microscopy
+  
+---
+
 * 🌍  I'm based in Haifa, Israel
 * 🖥️  See my portfolio at [LinkedIN](http://linkedin.com/in/tal-naor-ph-d-b72048205)
 * ✉️  You can contact me at [drtalnaor@gmail.com](mailto:drtalnaor@gmail.com)
