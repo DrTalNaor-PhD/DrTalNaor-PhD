@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI R&D engineer | Biomedical & Biotechnology
 --------------------------------------------
 
+![linkBan](https://github.com/DrTalNaor-PhD/DrTalNaor-PhD/blob/main/linkBack.png)
+
 I bridge the gap between complex biomedical research and high-value commercial AI products. 
 I specialize in the productization and operationalization of advanced AI systems, moving models from the lab to deployable medical applications.
 
