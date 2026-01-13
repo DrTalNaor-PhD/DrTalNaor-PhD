@@ -34,3 +34,13 @@ My unique background allows me to speak two languages fluently: Deep Tech and Cl
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/DrTalNaor-PhD" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/tal-naor-ph-d-b72048205" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
+## Publications
+Articles as the main author:
+-	“Quantifying cell cycle-dependent chromatin dynamics during the interphase by live 3D tracking”, 2022, iScience- a Cell Press journal. DOI: 10.1016/j.isci.2022.104197
+ 
+Articles as a co-author:
+-	“Learning optimal wavefront shaping for multi-channel imaging”, 2021, IEEE-TPAMI, DOI: 10.1109/TPAMI.2021.3076873.
+-	“DeepSTORM3D: dense 3D localization microscopy and PSF design by deep learning”, 2020, Nature Methods, DOI: 10.1038/s41592-020-0853-5.
+-	Review: “Observing DNA in live cells”, 2018, Biochemical society transactions, DOI: 10.1042/BST20170301
+
