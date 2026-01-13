@@ -57,3 +57,5 @@ Articles as a co-author:
 -	“DeepSTORM3D: dense 3D localization microscopy and PSF design by deep learning”, 2020, Nature Methods, DOI: 10.1038/s41592-020-0853-5.
 -	Review: “Observing DNA in live cells”, 2018, Biochemical society transactions, DOI: 10.1042/BST20170301
 
+## comming soon
+Release version 0.5.0 of Bio-Rando: Stochastic Simulation of Synthetic Biological Logic Gates.
